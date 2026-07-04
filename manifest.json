@@ -1,0 +1,13 @@
+{
+  "name": "Caja Pastelitos PRO",
+  "short_name": "Caja Pastelitos",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f8f9fa",
+  "theme_color": "#1a73e8",
+"icons": {
+    "16": "business.png",
+    "48": "business.png",
+    "128": "business.png"
+  }
+}
